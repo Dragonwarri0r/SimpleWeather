@@ -1,3 +1,14 @@
 <resources>
-    <string name="app_name">SimpleWeather</string>
+    <string name="app_name">简单天气</string>
+    <string name="back_btn">⬅️</string>
+
+
+    <string name="forecast">预报</string>
+    <string name="airattr">空气质量</string>
+    <string name="aqinum">AQI指数</string>
+    <string name="PM2_5num">pm2.5指数</string>
+    <string name="dailysuggestion">生活建议</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
